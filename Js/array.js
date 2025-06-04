@@ -200,7 +200,7 @@ console.log(me.skills);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let nums = []; // boş array yaradılır
+let nums = [];
 
 nums.push(1);
 nums.push(2);
